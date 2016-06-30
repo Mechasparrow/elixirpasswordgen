@@ -1,0 +1,2 @@
+defmodule RandPass do
+end
